@@ -1,0 +1,1 @@
+#Write a program that takes a string input from the user and checks whether it is a palindrome or not (a word that is spelled the same way forwards and backwards, like "racecar").
